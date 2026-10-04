@@ -79,10 +79,12 @@ Press F8, select the chess position, and let it do its thing.
 🖥️ Windows
 Don't want to run Python?
 **[Download Chess FEN-tastic for Windows](https://github.com/pan103769/chess-fen-tastic/releases/tag/v1.0.0)**
+
 Download → run → select position.
-🧪 Current status
-Working ✅
-The full pipeline currently works:
+
+
+
+The full pipeline currently works✅:
 Screenshot
    ↓
 Gemma 4 Cloud
@@ -97,13 +99,13 @@ Lichess board
 
 And yes — you can do it again without restarting the program.
 Because apparently one chess position wasn't enough.
-🔮 What's next?
+
 - 📷 Photos of physical boards
 - 📖 Chess books
 - 🧩 Puzzle diagrams
 - 🎥 Videos
 - 🎨 Different board themes
-That's where I'd like to take it.
+
 ♟️ Built for Hacktoberfest 2026
 Built with open-source AI at its core.
 Built because manually recreating a chess position is boring.
