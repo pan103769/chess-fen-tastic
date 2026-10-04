@@ -76,6 +76,14 @@ python main.py
 
 Press F8, select the chess position, and let it do its thing.
 
+## 🖥️ Windows
+
+Don't want to run Python?
+
+**[Download Chess FEN-tastic for Windows](https://github.com/pan103769/chess-fen-tastic/releases/tag/v1.0.0)**
+
+Download → run → select position.
+
 🖥️ Windows
 Don't want to run Python?
 Download Chess FEN-tastic for Windows
