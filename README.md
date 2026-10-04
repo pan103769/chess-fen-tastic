@@ -52,16 +52,18 @@ Gemma sees the board.
 Python handles the notation (FEN).
 Lichess makes it playable.
 
-⚙️ Tech Stack
-Technology	Why
-🧠 Gemma 4 Cloud	Visual chess-position recognition
-🐍 Python	Core logic + FEN generation
-🔗 Ollama	Gemma integration
-🖼️ Pillow	Image handling
-🎨 Tkinter	Screenshot selection
-📦 PyInstaller	Windows executable
-♟️ FEN	Position representation
-🌐 Lichess	Playable digital board
+## ⚙️ Tech Stack
+
+| Technology | Why |
+|---|---|
+| 🧠 **Gemma 4 Cloud** | Visual chess-position recognition |
+| 🐍 **Python** | Core logic + FEN generation |
+| 🔗 **Ollama** | Gemma integration |
+| 🖼️ **Pillow** | Image handling |
+| 🎨 **Tkinter** | Screenshot selection |
+| 📦 **PyInstaller** | Windows executable |
+| ♟️ **FEN** | Position representation |
+| 🌐 **Lichess** | Playable digital board |
 
 
 🚀 Run it
