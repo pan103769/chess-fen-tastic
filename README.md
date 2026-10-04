@@ -16,7 +16,7 @@ Yeah. No.
 
 ## 🎥 See it in action
 
-https://github.com/user-attachments/assets/295e3b56-27d2-4324-8043-491a88122031
+[Recording.2026-10-demo.also.solved.a.puzzle.mp4](https://github.com/user-attachments/assets/295e3b56-27d2-4324-8043-491a88122031)
 
 **Select → Recognize → Play.**
 
@@ -33,16 +33,17 @@ That's basically it.
          📸 Screenshot
               │
               ▼
-        🧠 GEMMA 4 CLOUD
+       🧠 GEMMA 4 CLOUD
               │
               ▼
-      64 SQUARES RECOGNIZED
+     64 SQUARES RECOGNIZED
               │
               ▼
-       🐍 PYTHON → FEN
+      🐍 PYTHON → FEN
               │
               ▼
-        ♟️ LICHESS BOARD
+       ♟️ LICHESS BOARD
+```
 
 Gemma looks at the position and identifies what's on each square.
 Python takes that structured output and converts it into FEN.
@@ -51,16 +52,16 @@ Gemma sees the board.
 Python handles the notation (FEN).
 Lichess makes it playable.
 
-| Technology | Why |
-|---|---|
-| 🧠 **Gemma 4 Cloud** | Visual chess-position recognition |
-| 🐍 **Python** | Core logic + FEN generation |
-| 🔗 **Ollama** | Gemma integration |
-| 🖼️ **Pillow** | Image handling |
-| 🎨 **Tkinter** | Screenshot selection |
-| 📦 **PyInstaller** | Windows executable |
-| ♟️ **FEN** | Position representation |
-| 🌐 **Lichess** | Playable digital board |
+⚙️ Tech Stack
+Technology	Why
+🧠 Gemma 4 Cloud	Visual chess-position recognition
+🐍 Python	Core logic + FEN generation
+🔗 Ollama	Gemma integration
+🖼️ Pillow	Image handling
+🎨 Tkinter	Screenshot selection
+📦 PyInstaller	Windows executable
+♟️ FEN	Position representation
+🌐 Lichess	Playable digital board
 
 
 🚀 Run it
@@ -75,18 +76,9 @@ pip install ollama pillow keyboard
 python main.py
 
 Press F8, select the chess position, and let it do its thing.
-
-## 🖥️ Windows
-
-Don't want to run Python?
-
-**[Download Chess FEN-tastic for Windows](https://github.com/pan103769/chess-fen-tastic/releases/tag/v1.0.0)**
-
-Download → run → select position.
-
 🖥️ Windows
 Don't want to run Python?
-Download Chess FEN-tastic for Windows
+**[Download Chess FEN-tastic for Windows](https://github.com/pan103769/chess-fen-tastic/releases/tag/v1.0.0)**
 Download → run → select position.
 🧪 Current status
 Working ✅
@@ -105,15 +97,13 @@ Lichess board
 
 And yes — you can do it again without restarting the program.
 Because apparently one chess position wasn't enough.
-
-
+🔮 What's next?
 - 📷 Photos of physical boards
 - 📖 Chess books
 - 🧩 Puzzle diagrams
 - 🎥 Videos
 - 🎨 Different board themes
 That's where I'd like to take it.
-
 ♟️ Built for Hacktoberfest 2026
 Built with open-source AI at its core.
 Built because manually recreating a chess position is boring.
