@@ -57,13 +57,12 @@ Lichess makes it playable.
 | Technology | Why |
 |---|---|
 | 🧠 **Gemma 4 Cloud** | Visual chess-position recognition |
+| 🔗 **Ollama** | Connects Python to Gemma 4 Cloud |
 | 🐍 **Python** | Core logic + FEN generation |
-| 🔗 **Ollama** | Gemma integration |
-| 🖼️ **Pillow** | Image handling |
-| 🎨 **Tkinter** | Screenshot selection |
-| 📦 **PyInstaller** | Windows executable |
-| ♟️ **FEN** | Position representation |
-| 🌐 **Lichess** | Playable digital board |
+| ⌨️ **keyboard** | F8 hotkey detection |
+| 🎨 **Tkinter** | Screenshot selection interface |
+| 🖼️ **Pillow** | Captures and handles screenshots |
+| 📦 **PyInstaller** | Packages the app into a Windows executable |
 
 
 🚀 Run it
