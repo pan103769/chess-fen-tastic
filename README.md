@@ -81,8 +81,15 @@ Press F8, select the chess position, and let it do its thing.
 Don't want to run Python?
 **[Download Chess FEN-tastic for Windows](https://github.com/pan103769/chess-fen-tastic/releases/tag/v1.0.0)**
 
-Download → run → select position.
 
+Before running it:
+1. Install Ollama
+2. Sign in/connect Ollama Cloud
+3. Make sure Gemma 4 Cloud is available
+4. Run main.exe
+
+Then:
+F8 → select chessboard → Gemma → FEN → Lichess
 
 
 The full pipeline currently works✅:
